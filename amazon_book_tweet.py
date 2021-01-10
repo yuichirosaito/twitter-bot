@@ -12,7 +12,7 @@ ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
 # 以下のリンクは、先ほどコピーしておいたAmazonのURLで置き換える。ここでは「リーダブルコード」の詳細ページのURLになっている。
-AMAZON_BOOK_URL = 'https://www.amazon.co.jp/gp/product/4414304229/ref=ox_sc_saved_title_3?smid=AN1VRQENFRJN5&psc=1'
+AMAZON_BOOK_URL = 'https://www.amazon.co.jp/%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%B3-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%81%A8AI%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E8%AA%9E%E3%82%8B/dp/4833423995/ref=msx_wsirn_v1_5/358-6374752-4424844?_encoding=UTF8&pd_rd_i=4833423995&pd_rd_r=8df5da79-dedb-457a-9769-f5cdb7da4d32&pd_rd_w=zVp3x&pd_rd_wg=yoATD&pf_rd_p=5369296e-7a8b-4cb4-8afd-800132ad0363&pf_rd_r=86902842J16AC33E49N5&psc=1&refRID=86902842J16AC33E49N5'
 TEXT = 'こんにちは！'
 
 # いずれかのコメント文章をランダムに利用する。

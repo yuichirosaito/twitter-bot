@@ -9,7 +9,7 @@ ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
 RSS_URL = 'https://employment.en-japan.com/engineerhub/rss'
-TEXT = 'チュートリアル実践中！ #さぼりエンジニア養成所'
+TEXT = 'こんにちは！'
 
 # RSSのデータ取得
 rss_dict = feedparser.parse(RSS_URL)

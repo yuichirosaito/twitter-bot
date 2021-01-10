@@ -13,7 +13,7 @@ ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
 # 以下のリンクは、先ほどコピーしておいたAmazonのURLで置き換える。ここでは「リーダブルコード」の詳細ページのURLになっている。
 AMAZON_BOOK_URL = 'https://www.amazon.co.jp/gp/product/4414304229/ref=ox_sc_saved_title_3?smid=AN1VRQENFRJN5&psc=1'
-TEXT = 'チュートリアル実践中！ #さぼりエンジニア養成所'
+TEXT = 'こんにちは！'
 
 # いずれかのコメント文章をランダムに利用する。
 RANDOM_COMMENTS = ['『{}』はめちゃくちゃいい本！駆け出しエンジニアにオススメ！\n\n{}\n{}',

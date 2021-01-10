@@ -16,7 +16,7 @@ auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
 # ツイート検索する文章
-search_text = '#駆け出しエンジニア'
+search_text = '#東京オリンピック'
 MAX_FOLLOW_COUNT = 10
 
 # ツイートを検索する

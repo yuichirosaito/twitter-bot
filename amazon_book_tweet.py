@@ -4,7 +4,6 @@ import random
 import requests
 import bs4
 import os
-from IPython import embed
 
 CONSUMER_KEY = os.environ['CONSUMER_KEY']
 CONSUMER_SECRET = os.environ['CONSUMER_SECRET']

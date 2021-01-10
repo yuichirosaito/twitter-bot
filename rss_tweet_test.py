@@ -3,10 +3,10 @@ import tweepy
 import feedparser
 
 # 以下4つ「xxxxx」を、先ほど控えた値で書き換える。
-CONSUMER_KEY='Atedi8Lbymj7iaThZH66xBmJw'
-CONSUMER_SECRET='SRZeWJNw5dlqTMuTEsgkEHhVpNb5hvWpXJYtpjZbb5wSOXxACI'
-ACCESS_TOKEN='1346464627563978752-4pluUV4CxrM5YBsl4wQFiI0K2PT6EL'
-ACCESS_TOKEN_SECRET='Ut3PmWI8iPaQFjGW9HwxcgJqriaZcVQan6wXxLZoZiiAc'
+CONSUMER_KEY = os.environ['CONSUMER_KEY']
+CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
+ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
 RSS_URL = 'https://employment.en-japan.com/engineerhub/rss'
 TEXT = 'チュートリアル実践中！ #さぼりエンジニア養成所'

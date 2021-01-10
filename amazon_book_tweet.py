@@ -25,7 +25,7 @@ response = requests.get(AMAZON_BOOK_URL)
 soup = bs4.BeautifulSoup(response.text, "html.parser")
 book_title = soup.find('title').text
 # 「タイトル | 著者名 | ...」というデータが取得できるので、「タイトル」と「 | 著者名 | ...」に分けて前半のデータを使う。
-formatted_book_title = book_title.split(' |')[0]
+formatted_book_title = book_title.split('　|')[0]
 
 # ツイート文章を作成する。
 comment = random.choice(RANDOM_COMMENTS)

@@ -6,14 +6,11 @@ import bs4
 import os
 from IPython import embed
 
-
-# 認証情報を「.env」から読み取る
 CONSUMER_KEY = os.environ['CONSUMER_KEY']
 CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
-# 以下のリンクは、先ほどコピーしておいたAmazonのURLで置き換える。ここでは「リーダブルコード」の詳細ページのURLになっている。
 AMAZON_BOOK_URL = 'https://www.amazon.co.jp/gp/product/4297107384/ref=ox_sc_act_title_1?smid=AN1VRQENFRJN5&psc=1'
 TEXT = 'こんにちは！'
 

@@ -1,6 +1,7 @@
 # coding=utf-8
 import tweepy
 import feedparser
+import os
 
 # 以下4つ「xxxxx」を、先ほど控えた値で書き換える。
 CONSUMER_KEY = os.environ['CONSUMER_KEY']

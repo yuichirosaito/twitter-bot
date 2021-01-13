@@ -1,0 +1,202 @@
+Script started on Wed Jan 13 14:36:09 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[7mcat vmstat.log[27m[14D[27mc[27ma[27mt[27m [27mv[27mm[27ms[27mt[27ma[27mt[27m.[27ml[27mo[27mg[?2004l
+Script started on Wed Jan 13 14:36:09 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hhheroku log -tails [?2004l
+ [33m›[39m   Warning: [33mlog[39m is not a heroku command.
+Did you mean [94mlogs[39m? [y/n]: 
+ [31m›[39m   Error: Run [36m[1mheroku help[22m[39m for a list of available commands.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hhheroku log[?2004l
+ [33m›[39m   Warning: [33mlog[39m is not a heroku command.
+Did you mean [94mlogs[39m? [y/n]: 
+ [31m›[39m   Error: Run [36m[1mheroku help[22m[39m for a list of available commands.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hhheroku run[?2004l
+Error: Usage: heroku run COMMAND
+Example: heroku run bash
+    at Run.run (/usr/local/Cellar/heroku/7.47.6/lib/client/7.47.7/node_modules/@heroku-cli/plugin-run/lib/commands/run/index.js:27:19)
+    at Run._run (/usr/local/Cellar/heroku/7.47.6/lib/client/7.47.7/node_modules/@oclif/command/lib/command.js:44:31)
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[7mRun.run[27m[27mR[27mu[27mn[27m.[27mr[27mu[27mn[?2004l
+zsh: command not found: Run.run
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hhheroku info[?2004l
+[2m=== [22m[1mtwitter----bot[22m
+Addons:         scheduler:standard
+Auto Cert Mgmt: false
+Dynos:          
+Git URL:        https://git.heroku.com/twitter----bot.git
+Owner:          yuichirosaito0821@gmail.com
+Region:         us
+Repo Size:      27 KB
+Slug Size:      45 MB
+Stack:          heroku-18
+Web URL:        https://twitter----bot.herokuapp.com/
+[?25h[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hhheroku [7mheroku logs --tail[27m
+[K
+[K[A[A[53C[27mh[27me[27mr[27mo[27mk[27mu[27m [27ml[27mo[27mg[27ms[27m [27m-[27m-[27mt[27ma[27mi[27ml[2B[K[?2004l
+ [33m›[39m   Warning: [33mheroku[39m is not a heroku command.
+Did you mean [94mcerts[39m? [y/n]: heroku logs --tail
+
+ [31m›[39m   Error: Run [36m[1mheroku help[22m[39m for a list of available commands.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[7mheroku logs --tail[27m
+[K
+[K[A[A[46C[27mh[27me[27mr[27mo[27mk[27mu[27m [27ml[27mo[27mg[27ms[27m [27m-[27m-[27mt[27ma[27mi[27ml[2B[K[?2004l
+[1m[32m2021-01-13T05:03:37.883996+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:38.173048+00:00 app[scheduler.2146]:[39m[22m 赤井真貴（@Hisomidori7）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:38.173481+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:38.496038+00:00 app[scheduler.2146]:[39m[22m sougoforrow4（@sougoforrow4）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:38.499237+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:38.748270+00:00 app[scheduler.2146]:[39m[22m WMR Tokyo - スタートアップ（@wmr_startup）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:38.757530+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:39.028443+00:00 app[scheduler.2146]:[39m[22m みみくらげ🌤️（@mimikurage）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:39.028477+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:39.345043+00:00 app[scheduler.2146]:[39m[22m 村本 訓一（@k_muramoto）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:39.345835+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:39.346007+00:00 app[scheduler.2146]:[39m[22m サキイカ（@heizyou）はフォロワーが86人しかないから、フォローしなかったよ
+[1m[32m2021-01-13T05:03:39.346191+00:00 app[scheduler.2146]:[39m[22m ---------------------------------------
+[1m[32m2021-01-13T05:03:39.602493+00:00 app[scheduler.2146]:[39m[22m カンク・ヤー（@munouojisan）を新規フォローしたよ
+[1m[32m2021-01-13T05:03:39.660109+00:00 app[scheduler.2146]:[39m[22m 10人を新しくフォローしたよ！
+[1m[32m2021-01-13T05:03:39.822820+00:00 heroku[scheduler.2146]:[39m[22m Process exited with status 0
+[1m[32m2021-01-13T05:03:39.867497+00:00 heroku[scheduler.2146]:[39m[22m State changed from up to complete
+[1m[36m2021-01-13T05:03:53.230861+00:00 app[api]:[39m[22m Starting process with command [36m[1m`python rss_tweet_test.py`[22m[39m[32m by user scheduler@addons.heroku.com[39m
+[1m[32m2021-01-13T05:03:57.936676+00:00 heroku[scheduler.4653]:[39m[22m Starting process with command `python rss_tweet_test.py`
+[1m[32m2021-01-13T05:03:58.597211+00:00 heroku[scheduler.4653]:[39m[22m State changed from starting to up
+[1m[32m2021-01-13T05:04:04.407990+00:00 app[scheduler.4653]:[39m[22m Traceback (most recent call last):
+[1m[32m2021-01-13T05:04:04.408072+00:00 app[scheduler.4653]:[39m[22m File "rss_tweet_test.py", line 39, in <module>
+[1m[32m2021-01-13T05:04:04.408431+00:00 app[scheduler.4653]:[39m[22m api.update_status(status=tweet_text)
+[1m[32m2021-01-13T05:04:04.408472+00:00 app[scheduler.4653]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/api.py", line 194, in update_status
+[1m[32m2021-01-13T05:04:04.408756+00:00 app[scheduler.4653]:[39m[22m )(post_data=post_data, *args, **kwargs)
+[1m[32m2021-01-13T05:04:04.408795+00:00 app[scheduler.4653]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 250, in _call
+[1m[32m2021-01-13T05:04:04.409117+00:00 app[scheduler.4653]:[39m[22m return method.execute()
+[1m[32m2021-01-13T05:04:04.409156+00:00 app[scheduler.4653]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+[1m[32m2021-01-13T05:04:04.409475+00:00 app[scheduler.4653]:[39m[22m raise TweepError(error_msg, resp, api_code=api_error_code)
+[1m[32m2021-01-13T05:04:04.409531+00:00 app[scheduler.4653]:[39m[22m tweepy.error.TweepError: [{'code': 187, 'message': 'Status is a duplicate.'}]
+[1m[32m2021-01-13T05:04:04.556234+00:00 heroku[scheduler.4653]:[39m[22m Process exited with status 1
+[1m[32m2021-01-13T05:04:04.604434+00:00 heroku[scheduler.4653]:[39m[22m State changed from up to complete
+[1m[36m2021-01-13T05:14:27.505469+00:00 app[api]:[39m[22m Starting process with command [36m[1m`python rss_tweet_test.py`[22m[39m[32m by user scheduler@addons.heroku.com[39m
+[1m[32m2021-01-13T05:14:30.212795+00:00 heroku[scheduler.6666]:[39m[22m Starting process with command `python rss_tweet_test.py`
+[1m[32m2021-01-13T05:14:30.785006+00:00 heroku[scheduler.6666]:[39m[22m State changed from starting to up
+[1m[32m2021-01-13T05:14:33.037166+00:00 app[scheduler.6666]:[39m[22m Traceback (most recent call last):
+[1m[32m2021-01-13T05:14:33.037176+00:00 app[scheduler.6666]:[39m[22m File "rss_tweet_test.py", line 39, in <module>
+[1m[32m2021-01-13T05:14:33.037332+00:00 app[scheduler.6666]:[39m[22m api.update_status(status=tweet_text)
+[1m[32m2021-01-13T05:14:33.037332+00:00 app[scheduler.6666]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/api.py", line 194, in update_status
+[1m[32m2021-01-13T05:14:33.037494+00:00 app[scheduler.6666]:[39m[22m )(post_data=post_data, *args, **kwargs)
+[1m[32m2021-01-13T05:14:33.037494+00:00 app[scheduler.6666]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 250, in _call
+[1m[32m2021-01-13T05:14:33.037673+00:00 app[scheduler.6666]:[39m[22m return method.execute()
+[1m[32m2021-01-13T05:14:33.037673+00:00 app[scheduler.6666]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+[1m[32m2021-01-13T05:14:33.037844+00:00 app[scheduler.6666]:[39m[22m raise TweepError(error_msg, resp, api_code=api_error_code)
+[1m[32m2021-01-13T05:14:33.037865+00:00 app[scheduler.6666]:[39m[22m tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+[1m[32m2021-01-13T05:14:33.088680+00:00 heroku[scheduler.6666]:[39m[22m Process exited with status 1
+[1m[32m2021-01-13T05:14:33.117715+00:00 heroku[scheduler.6666]:[39m[22m State changed from up to complete
+[1m[36m2021-01-13T05:23:21.243438+00:00 app[api]:[39m[22m Starting process with command [36m[1m`python rss_tweet_test.py`[22m[39m[32m by user scheduler@addons.heroku.com[39m
+[1m[32m2021-01-13T05:23:25.951531+00:00 heroku[scheduler.2519]:[39m[22m Starting process with command `python rss_tweet_test.py`
+[1m[32m2021-01-13T05:23:26.741915+00:00 heroku[scheduler.2519]:[39m[22m State changed from starting to up
+[1m[32m2021-01-13T05:23:32.557922+00:00 app[scheduler.2519]:[39m[22m Traceback (most recent call last):
+[1m[32m2021-01-13T05:23:32.563680+00:00 app[scheduler.2519]:[39m[22m File "rss_tweet_test.py", line 39, in <module>
+[1m[32m2021-01-13T05:23:32.564204+00:00 app[scheduler.2519]:[39m[22m api.update_status(status=tweet_text)
+[1m[32m2021-01-13T05:23:32.564287+00:00 app[scheduler.2519]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/api.py", line 194, in update_status
+[1m[32m2021-01-13T05:23:32.564757+00:00 app[scheduler.2519]:[39m[22m )(post_data=post_data, *args, **kwargs)
+[1m[32m2021-01-13T05:23:32.564826+00:00 app[scheduler.2519]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 250, in _call
+[1m[32m2021-01-13T05:23:32.565342+00:00 app[scheduler.2519]:[39m[22m return method.execute()
+[1m[32m2021-01-13T05:23:32.565416+00:00 app[scheduler.2519]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+[1m[32m2021-01-13T05:23:32.565874+00:00 app[scheduler.2519]:[39m[22m raise TweepError(error_msg, resp, api_code=api_error_code)
+[1m[32m2021-01-13T05:23:32.565962+00:00 app[scheduler.2519]:[39m[22m tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+[1m[32m2021-01-13T05:23:32.764087+00:00 heroku[scheduler.2519]:[39m[22m Process exited with status 1
+[1m[32m2021-01-13T05:23:32.806837+00:00 heroku[scheduler.2519]:[39m[22m State changed from up to complete
+[1m[36m2021-01-13T05:33:25.132788+00:00 app[api]:[39m[22m Starting process with command [36m[1m`python rss_tweet_test.py`[22m[39m[32m by user scheduler@addons.heroku.com[39m
+[1m[32m2021-01-13T05:33:29.793814+00:00 heroku[scheduler.5244]:[39m[22m Starting process with command `python rss_tweet_test.py`
+[1m[32m2021-01-13T05:33:30.394033+00:00 heroku[scheduler.5244]:[39m[22m State changed from starting to up
+[1m[32m2021-01-13T05:33:35.922717+00:00 app[scheduler.5244]:[39m[22m Traceback (most recent call last):
+[1m[32m2021-01-13T05:33:35.926950+00:00 app[scheduler.5244]:[39m[22m File "rss_tweet_test.py", line 39, in <module>
+[1m[32m2021-01-13T05:33:35.927357+00:00 app[scheduler.5244]:[39m[22m api.update_status(status=tweet_text)
+[1m[32m2021-01-13T05:33:35.927409+00:00 app[scheduler.5244]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/api.py", line 194, in update_status
+[1m[32m2021-01-13T05:33:35.927755+00:00 app[scheduler.5244]:[39m[22m )(post_data=post_data, *args, **kwargs)
+[1m[32m2021-01-13T05:33:35.928050+00:00 app[scheduler.5244]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 250, in _call
+[1m[32m2021-01-13T05:33:35.928424+00:00 app[scheduler.5244]:[39m[22m return method.execute()
+[1m[32m2021-01-13T05:33:35.928470+00:00 app[scheduler.5244]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+[1m[32m2021-01-13T05:33:35.928803+00:00 app[scheduler.5244]:[39m[22m raise TweepError(error_msg, resp, api_code=api_error_code)
+[1m[32m2021-01-13T05:33:35.928880+00:00 app[scheduler.5244]:[39m[22m tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+[1m[32m2021-01-13T05:33:36.130910+00:00 heroku[scheduler.5244]:[39m[22m Process exited with status 1
+[1m[32m2021-01-13T05:33:36.175660+00:00 heroku[scheduler.5244]:[39m[22m State changed from up to complete
+[1m[36m2021-01-13T05:42:31.155002+00:00 app[api]:[39m[22m Release [35mv19[39m created by user [32myuichirosaito0821@gmail.com[39m
+[1m[36m2021-01-13T05:42:31.155002+00:00 app[api]:[39m[22m Set ACCESS_TOKEN config vars by user yuichirosaito0821@gmail.com
+[1m[36m2021-01-13T05:42:44.302303+00:00 app[api]:[39m[22m Release [35mv20[39m created by user [32myuichirosaito0821@gmail.com[39m
+[1m[36m2021-01-13T05:42:44.302303+00:00 app[api]:[39m[22m Set ACCESS_TOKEN_SECRET config vars by user yuichirosaito0821@gmail.com
+[1m[36m2021-01-13T05:42:48.438631+00:00 app[api]:[39m[22m Set CONSUMER_KEY config vars by user yuichirosaito0821@gmail.com
+[1m[36m2021-01-13T05:42:48.438631+00:00 app[api]:[39m[22m Release [35mv21[39m created by user [32myuichirosaito0821@gmail.com[39m
+[1m[36m2021-01-13T05:42:54.324449+00:00 app[api]:[39m[22m Set CONSUMER_SECRET config vars by user yuichirosaito0821@gmail.com
+[1m[36m2021-01-13T05:42:54.324449+00:00 app[api]:[39m[22m Release [35mv22[39m created by user [32myuichirosaito0821@gmail.com[39m
+[1m[36m2021-01-13T05:43:17.715445+00:00 app[api]:[39m[22m Starting process with command [36m[1m`python rss_tweet_test.py`[22m[39m[32m by user scheduler@addons.heroku.com[39m
+[1m[32m2021-01-13T05:43:22.427275+00:00 heroku[scheduler.9492]:[39m[22m Starting process with command `python rss_tweet_test.py`
+[1m[32m2021-01-13T05:43:23.221476+00:00 heroku[scheduler.9492]:[39m[22m State changed from starting to up
+[1m[32m2021-01-13T05:43:29.044522+00:00 app[scheduler.9492]:[39m[22m Traceback (most recent call last):
+[1m[32m2021-01-13T05:43:29.044535+00:00 app[scheduler.9492]:[39m[22m File "rss_tweet_test.py", line 39, in <module>
+[1m[32m2021-01-13T05:43:29.044801+00:00 app[scheduler.9492]:[39m[22m api.update_status(status=tweet_text)
+[1m[32m2021-01-13T05:43:29.049903+00:00 app[scheduler.9492]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/api.py", line 194, in update_status
+[1m[32m2021-01-13T05:43:29.050323+00:00 app[scheduler.9492]:[39m[22m )(post_data=post_data, *args, **kwargs)
+[1m[32m2021-01-13T05:43:29.050383+00:00 app[scheduler.9492]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 250, in _call
+[1m[32m2021-01-13T05:43:29.050820+00:00 app[scheduler.9492]:[39m[22m return method.execute()
+[1m[32m2021-01-13T05:43:29.050903+00:00 app[scheduler.9492]:[39m[22m File "/app/.heroku/python/lib/python3.6/site-packages/tweepy/binder.py", line 234, in execute
+[1m[32m2021-01-13T05:43:29.051320+00:00 app[scheduler.9492]:[39m[22m raise TweepError(error_msg, resp, api_code=api_error_code)
+[1m[32m2021-01-13T05:43:29.051400+00:00 app[scheduler.9492]:[39m[22m tweepy.error.TweepError: [{'code': 32, 'message': 'Could not authenticate you.'}]
+[1m[32m2021-01-13T05:43:29.229115+00:00 heroku[scheduler.9492]:[39m[22m Process exited with status 1
+[1m[32m2021-01-13T05:43:29.297324+00:00 heroku[scheduler.9492]:[39m[22m State changed from up to complete
+^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hheroku logs --tail
+[K
+[K[K[A[A[46C[7Cheroku logs --tail[2B[A[A[46C[7Cinfo              [1B[K[1B[K[A[A[57C[11DRun.run    heroku runlog -tails [18Dcat vmstat.log   [14Dforego run python rss_tweet_test.py[35Dcat vmstat.log                     [21D[14Dheroku log -tails       run[10DRun.run   heroku infoheroku logs --tail[1B[K[1B[K[A[A[53C[7P[11C       [2B[K[A[A[46C                  [1B[K[1B[K[A[A[46Cheroku logs --tail[1B[K[1B[K[K[A[A[46C[7Cheroku logs --tail[2B[A[A[46C[7Cinfo              [1B[K[1B[K[A[A[57C[11DRun.run    heroku runlog -tails [18Dcat vmstat.log   [14Dforego run python rss_tweet_test.py[1C[1C[1C.py .py .py .py .py .py .py .py .py .py .py .py .py .py d.pye.pyl.pye.pyt.pye.py_.pyf.pyo.pyl.pyl.pyo.pyw.py[?2004l[1B297833410
+Do you really want to unfollow this person?
+131222694
+Do you really want to unfollow this person?
+Traceback (most recent call last):
+  File "delete_follow.py", line 25, in <module>
+    api.destroy_friendship(status.id)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+ERROR: exit status 1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hforego run python delete_follow.py[34Dheroku logs --tail                
+[K
+[K[K[A[A[46C[7Cheroku logs --tail[2B[A[A[46C[7Cinfo              [1B[K[1B[K[A[A[57C[11DRun.run    heroku runlog -tails [18Dcat vmstat.log   [14Dforego run python rss_tweet_test.py[?2004l[1BTraceback (most recent call last):
+  File "rss_tweet_test.py", line 39, in <module>
+    api.update_status(status=tweet_text)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/api.py", line 218, in update_status
+    )(*args, **kwargs)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+ERROR: exit status 1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hforego run python rss_tweet_test.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hforego run python rss_tweet_test.py.py .py .py .py .py .py .py .py .py .py .py .py .py .py f.pyo.pyl.pyl.pyo.pyw.py[1C[1C[1C[1C[1C[8Drss_tweet_test.py[17Ddelete_follow.py [?2004l
+131222694
+Do you really want to unfollow this person?
+1022681389173338113
+Do you really want to unfollow this person?
+Traceback (most recent call last):
+  File "delete_follow.py", line 25, in <module>
+    api.destroy_friendship(status.id)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+ERROR: exit status 1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hforego run python delete_follow.py[16Drss_tweet_test.py[?2004l
+Traceback (most recent call last):
+  File "rss_tweet_test.py", line 39, in <module>
+    api.update_status(status=tweet_text)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/api.py", line 218, in update_status
+    )(*args, **kwargs)
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 253, in _call
+    return method.execute()
+  File "/Users/saitouyuuichirou/.pyenv/versions/3.7.5/lib/python3.7/site-packages/tweepy/binder.py", line 234, in execute
+    raise TweepError(error_msg, resp, api_code=api_error_code)
+tweepy.error.TweepError: [{'code': 89, 'message': 'Invalid or expired token.'}]
+ERROR: exit status 1
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004hforego run python rss_tweet_test.py[17Ddelete_follow.py [16Drss_tweet_test.py[17Ddelete_follow.py [34Dheroku logs --tail                
+[K
+[K[A[A[46Cforego run python delete_follow.py[1B[K[1B[K[A[A[80C[16Drss_tweet_test.py[17Ddelete_follow.py [16Drss_tweet_test.py[35D                                   [35Dforego run python rss_tweet_test.py[17Ddelete_follow.py [16Drss_tweet_test.py[17Ddelete_follow.py [?2004l[1B[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h[7mdjango-admin startproject myapp[27m[31D[27md[27mj[27ma[27mn[27mg[27mo[27m-[27ma[27md[27mm[27mi[27mn[27m [27ms[27mt[27ma[27mr[27mt[27mp[27mr[27mo[27mj[27me[27mc[27mt[27m [27mm[27my[27ma[27mp[27m     [1Cpix ctweet[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://Yuichiro-Saito.local/Users/saitouyuuichirou/twitter/twitter-bot[0m[27m[24m[Jsaitouyuuichirou@Yuichiro-Saito twitter-bot % [K[?2004h

@@ -16,7 +16,7 @@ auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
 # ツイート検索する文章
-search_text = '#東京オリンピック'
+search_text = 'プログラミング'
 MAX_FOLLOW_COUNT = 10
 
 # ツイートを検索する
@@ -57,4 +57,4 @@ for status in search_results:
     if len(new_follow_ids) >= MAX_FOLLOW_COUNT:
         break
 
-print('{}人の駆け出しエンジニアを新しくフォローしたよ！'.format(len(new_follow_ids)))
+print('{}人を新しくフォローしたよ！'.format(len(new_follow_ids)))

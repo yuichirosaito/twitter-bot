@@ -9,7 +9,7 @@ CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
 ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
 ACCESS_TOKEN_SECRET = os.environ['ACCESS_TOKEN_SECRET']
 
-RSS_URL = 'https://employment.en-japan.com/engineerhub/rss'
+RSS_URL = 'https://news.google.com/rss/search?q=facebook'
 TEXT = 'こんにちは！'
 
 # RSSのデータ取得

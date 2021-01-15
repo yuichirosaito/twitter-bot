@@ -5,7 +5,6 @@ import os
 import urllib
 import json
 import pprint
-from IPython import embed
 
 # 以下4つ「xxxxx」を、先ほど控えた値で書き換える。
 CONSUMER_KEY = os.environ['CONSUMER_KEY']

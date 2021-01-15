@@ -21,25 +21,3 @@ for status in tweepy.Cursor(api.user_timeline).items():
     print("Delete OK?")
     if input()=="y"or "Y": #削除するかどうかの最後の確認
         api.destroy_status(status.id)
-
-
-"""import tweepy
-
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
-api = tweepy.API(auth)
-
-def my_tweet_delete(RT,keyword):
-    for status in tweepy.Cursor(api.user_timeline).items():
-        if RT==False and "RT @" in status.text: #リツイートを含めるかどうか
-            pass
-        elif keyword!=""and  keyword in status.text: #キーワードが空白でない
-            print(status.text)
-            print("Delete OK?")
-            if input()=="y"or "Y": #削除するかどうかの最後の確認
-                api.destroy_status(status.id)
-
-if __name__ == '__main__':
-    keyword='python'
-    my_tweet(True,keyword) 
-#api制限で最大取得できるツイートが3190"""
